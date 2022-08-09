@@ -4,7 +4,7 @@
 -  Currently pursuing Master's in Information Systems at **California State University, Los Angeles**
 -  Building analytical reports using data wrangling of large and complex datasets
 -  Interpreting and analysing data to draw insights
--  Building up visulaizations using Tableau, PowerBI and Excel
+-  Building up visulizations using Tableau, PowerBI and Excel
 -  Pronouns: her/she
 -  How to reach me: pratiksha02yadav@gmail.com
 
